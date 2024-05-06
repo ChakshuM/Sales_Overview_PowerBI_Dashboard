@@ -3,12 +3,15 @@ The "Sales Overview" PowerBI dashboard provides a comprehensive snapshot of the 
 
 &nbsp;&nbsp;
 
-<img width="640" alt="image" src="https://github.com/ChakshuM/Sales_Overview_PowerBI_Dashboard/assets/50142921/695e7ae2-cca2-4d94-9a7f-a6bf35a7c685">
+<img width="634" alt="image" src="https://github.com/ChakshuM/Sales_Overview_PowerBI_Dashboard/assets/50142921/e65df11c-5b7f-4597-9b2c-6102c6511134">
+
 
 &nbsp;&nbsp;
 
-<img width="637" alt="image" src="https://github.com/ChakshuM/Sales_Overview_PowerBI_Dashboard/assets/50142921/6a0a781e-0838-48ef-8204-f15742422380">
+<img width="638" alt="image" src="https://github.com/ChakshuM/Sales_Overview_PowerBI_Dashboard/assets/50142921/330a0efa-e759-4102-8892-c91a68c6cebd">
+
 
 &nbsp;&nbsp;
 
-<img width="639" alt="image" src="https://github.com/ChakshuM/Sales_Overview_PowerBI_Dashboard/assets/50142921/9d4319c5-bac3-449c-89fd-8536a436abce">
+<img width="637" alt="image" src="https://github.com/ChakshuM/Sales_Overview_PowerBI_Dashboard/assets/50142921/7c28a3a0-f03f-42ca-8105-1dcc1f51a83e">
+
